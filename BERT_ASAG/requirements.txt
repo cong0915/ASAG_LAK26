@@ -1,0 +1,10 @@
+transformers
+torch
+wandb
+pandas
+scikit-learn
+numpy
+openpyxl
+datasets
+sentencepiece
+sacremoses

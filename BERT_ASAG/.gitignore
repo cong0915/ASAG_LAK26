@@ -1,0 +1,5 @@
+.venv/
+wandb/
+results/
+!report.txt
+src/__pycache__

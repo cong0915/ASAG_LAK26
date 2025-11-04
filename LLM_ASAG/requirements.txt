@@ -1,0 +1,22 @@
+torch
+transformers
+peft
+datasets
+trl
+deepspeed
+pandas
+openpyxl
+scikit-learn
+tiktoken
+pytest
+huggingface-hub
+wandb
+flash-attn==2.7.4.post1 --no-build-isolation
+# flash-attn--no-build-isolation
+kernels
+uuid
+gc
+openai
+backoff
+bitsandbytes 
+git+https://github.com/Tsumugii24/transformers
