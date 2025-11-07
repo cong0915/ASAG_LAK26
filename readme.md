@@ -45,6 +45,8 @@ Repository for training and evaluating short-answer grading using LLM and BERT a
 
 ### Hyperparameter for fine-tuning
 
+random seeds for data split: 42
+
 #### LLM 
 - learning_rate: 1e-05
 - lr_scheduler_type: "cosine"
