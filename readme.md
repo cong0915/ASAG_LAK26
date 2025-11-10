@@ -17,7 +17,7 @@ Repository for training and evaluating short-answer grading using LLM and BERT a
   - src/eval.py — BERT evaluation utilities
   - main.sh, requirements.txt
 - dataset/ — Excel sources and PDFs
-  - MK8A_examples.xlsx - student answers with human grading
+  - MK8A.xlsx - student answers with human grading
   - evaluation_criteria_teacher.pdf - evaluation criteria for the human grading
   - item_text.pdf - text to the items
 
@@ -27,7 +27,7 @@ Repository for training and evaluating short-answer grading using LLM and BERT a
    - LLM: `LLM_ASAG/requirements.txt`
    - BERT: `BERT_ASAG/requirements.txt`
 
-2. Place dataset Excel file(s) where scripts expect them (examples use `dataset/MK8A_examples.xlsx`).
+2. Place dataset Excel file(s) where scripts expect them (examples use `dataset/MK8A.xlsx`).
 
 ### LLM: train / evaluate
 
